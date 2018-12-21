@@ -22,11 +22,11 @@ azure-storage-blob
 
 
 Setup Instructions:
-a. Configure Following Environment Variables:
-    1. "CAM_VAULT_URL" <br />
-    2. "CAM_CLIENT" <br />
-    3. "CAM_CLIENT_KEY" <br />
-    4. "CAM_TENANT" <br />
+a. Configure Following Environment Variables: <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. "CAM_VAULT_URL" <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. "CAM_CLIENT" <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. "CAM_CLIENT_KEY" <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. "CAM_TENANT" <br />
 
 b. Get your Service Principal added to camera vault's access policies. <br />
 c. Compile and run the app 
