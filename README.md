@@ -4,5 +4,5 @@ It lets you click pictures and uploads it to pre-configured storage account on A
 It uses keyvault to hide storage account credentials, and your service principal needs to be given access to keyvault for you to be able to use the app. 
 
 App Design:
-![alt text] https://github.com/g2vinay/camera-azure-app-java/blob/master/design.png
+![](https://github.com/g2vinay/camera-azure-app-java/blob/master/design.png)
 
