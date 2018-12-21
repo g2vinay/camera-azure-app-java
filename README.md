@@ -27,6 +27,7 @@ Configure Following Environment Variables:
 "CAM_CLIENT"
 "CAM_CLIENT_KEY"
 "CAM_TENANT"
+
 Get your Service Principal added to camera vault's access policies.
 
 
